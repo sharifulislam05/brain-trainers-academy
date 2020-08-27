@@ -1,0 +1,17 @@
+.nav{
+    background-color: rgb(36, 32, 32);
+}
+.nav-bar{
+    height: 40px;
+    background-color: black;
+    text-align: center;
+}
+.nav-bar a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: white;
+    line-height:20px; 
+}
+.nav-bar a:hover{
+    border-radius: 5px;
+}
